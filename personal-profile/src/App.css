@@ -1,0 +1,40 @@
+
+.profile {
+  text-align: center;
+}
+
+.profile img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  border: 4px solid #ff66b2; 
+}
+
+.profile p {
+  font-size: 18px;
+  color: #ff66b2; 
+}
+
+.hobbies {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.hobbies h2 {
+  font-size: 24px;
+  color: #ff66b2; 
+  margin-bottom: 20px;
+}
+
+.hobbies ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.hobbies li {
+  font-size: 16px;
+  color: #ff66b2; 
+  
+}
